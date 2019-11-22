@@ -1,0 +1,16 @@
+C:\Users\lab\source\repos\Bial_Lis_UP\Bial_Lis_UP\obj\Debug\Bial_Lis_UP.csprojAssemblyReference.cache
+C:\Users\lab\source\repos\Bial_Lis_UP\Bial_Lis_UP\obj\Debug\Bial_Lis_UP.csproj.CoreCompileInputs.cache
+C:\Users\lab\source\repos\Bial_Lis_UP\Bial_Lis_UP\bin\Debug\Bial_Lis_UP.exe.config
+C:\Users\lab\source\repos\Bial_Lis_UP\Bial_Lis_UP\bin\Debug\Bial_Lis_UP.exe
+C:\Users\lab\source\repos\Bial_Lis_UP\Bial_Lis_UP\bin\Debug\Bial_Lis_UP.pdb
+C:\Users\lab\source\repos\Bial_Lis_UP\Bial_Lis_UP\obj\Debug\Bial_Lis_UP.exe
+C:\Users\lab\source\repos\Bial_Lis_UP\Bial_Lis_UP\obj\Debug\Bial_Lis_UP.pdb
+C:\Users\lab\source\repos\Bial_Lis_UP\Bial_Lis_UP\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\lab\source\repos\Bial_Lis_UP\Bial_Lis_UP\bin\Debug\SharpDX.dll
+C:\Users\lab\source\repos\Bial_Lis_UP\Bial_Lis_UP\bin\Debug\SharpDX.pdb
+C:\Users\lab\source\repos\Bial_Lis_UP\Bial_Lis_UP\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\lab\source\repos\Bial_Lis_UP\Bial_Lis_UP\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\lab\source\repos\Bial_Lis_UP\Bial_Lis_UP\obj\Debug\Bial_Lis_UP.csproj.CopyComplete
+C:\Users\lab\source\repos\Bial_Lis_UP\Bial_Lis_UP\obj\Debug\Bial_Lis_UP.Windos.resources
+C:\Users\lab\source\repos\Bial_Lis_UP\Bial_Lis_UP\obj\Debug\Bial_Lis_UP.csproj.GenerateResource.cache
+C:\Users\lab\source\repos\Bial_Lis_UP\Bial_Lis_UP\obj\Debug\Bial_Lis_UP.Window.resources

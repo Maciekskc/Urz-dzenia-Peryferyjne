@@ -1,0 +1,15 @@
+C:\Users\lab\Desktop\up bloototh lis-bialkowski\Bloototh\Bloototh\bin\Debug\Bloototh.exe.config
+C:\Users\lab\Desktop\up bloototh lis-bialkowski\Bloototh\Bloototh\bin\Debug\Bloototh.exe
+C:\Users\lab\Desktop\up bloototh lis-bialkowski\Bloototh\Bloototh\bin\Debug\Bloototh.pdb
+C:\Users\lab\Desktop\up bloototh lis-bialkowski\Bloototh\Bloototh\obj\Debug\Bloototh.csprojAssemblyReference.cache
+C:\Users\lab\Desktop\up bloototh lis-bialkowski\Bloototh\Bloototh\obj\Debug\Bloototh.AppForm.resources
+C:\Users\lab\Desktop\up bloototh lis-bialkowski\Bloototh\Bloototh\obj\Debug\Bloototh.Properties.Resources.resources
+C:\Users\lab\Desktop\up bloototh lis-bialkowski\Bloototh\Bloototh\obj\Debug\Bloototh.csproj.GenerateResource.cache
+C:\Users\lab\Desktop\up bloototh lis-bialkowski\Bloototh\Bloototh\obj\Debug\Bloototh.csproj.CoreCompileInputs.cache
+C:\Users\lab\Desktop\up bloototh lis-bialkowski\Bloototh\Bloototh\obj\Debug\Bloototh.exe
+C:\Users\lab\Desktop\up bloototh lis-bialkowski\Bloototh\Bloototh\obj\Debug\Bloototh.pdb
+C:\Users\lab\Desktop\up bloototh lis-bialkowski\Bloototh\Bloototh\bin\Debug\Brecham.Obex.dll
+C:\Users\lab\Desktop\up bloototh lis-bialkowski\Bloototh\Bloototh\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\lab\Desktop\up bloototh lis-bialkowski\Bloototh\Bloototh\bin\Debug\Brecham.Obex.xml
+C:\Users\lab\Desktop\up bloototh lis-bialkowski\Bloototh\Bloototh\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\lab\Desktop\up bloototh lis-bialkowski\Bloototh\Bloototh\obj\Debug\Bloototh.csproj.CopyComplete

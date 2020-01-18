@@ -1,0 +1,10 @@
+C:\Users\lab\Desktop\Analizator parametrów sieci\Analizator\Analizator\bin\Debug\Analizator.exe.config
+C:\Users\lab\Desktop\Analizator parametrów sieci\Analizator\Analizator\bin\Debug\Analizator.exe
+C:\Users\lab\Desktop\Analizator parametrów sieci\Analizator\Analizator\bin\Debug\Analizator.pdb
+C:\Users\lab\Desktop\Analizator parametrów sieci\Analizator\Analizator\obj\Debug\Analizator.csprojAssemblyReference.cache
+C:\Users\lab\Desktop\Analizator parametrów sieci\Analizator\Analizator\obj\Debug\Analizator.MainForm.resources
+C:\Users\lab\Desktop\Analizator parametrów sieci\Analizator\Analizator\obj\Debug\Analizator.Properties.Resources.resources
+C:\Users\lab\Desktop\Analizator parametrów sieci\Analizator\Analizator\obj\Debug\Analizator.csproj.GenerateResource.cache
+C:\Users\lab\Desktop\Analizator parametrów sieci\Analizator\Analizator\obj\Debug\Analizator.csproj.CoreCompileInputs.cache
+C:\Users\lab\Desktop\Analizator parametrów sieci\Analizator\Analizator\obj\Debug\Analizator.exe
+C:\Users\lab\Desktop\Analizator parametrów sieci\Analizator\Analizator\obj\Debug\Analizator.pdb
